@@ -4,7 +4,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC3AF1pNtNQ-u5SAyj2q41cw)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fQ9uPFKYrK)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlugBypass&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlugBypass&show_icons=true&theme=transparent))
 
 ### 🛒 Language to Program
 
@@ -18,3 +18,5 @@ To buy bypass join in discordand open ticket.
 ### 🕒 Last videos
 - [Plug - ShowCase | v3.1](https://www.youtube.com/watch?v=dGmEI2bQM6w)<br/>
 - [COMO DAR BYPASS EM TODOS TELADORES DO FIVEM COM PLUG BYPASS](https://www.youtube.com/watch?v=IxVPvTsH-xE)<br/>
+
+![Snake Animation](https://github.com/PlugBypass)
