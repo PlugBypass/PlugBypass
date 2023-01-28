@@ -1,6 +1,6 @@
 ### 🔌 Welcome to PlugBypass
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PlugBypass&langs_count=8)](https://github.com/PlugBypass/PlugBypass)
+[![Blog](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]
 
 
