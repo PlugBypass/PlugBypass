@@ -18,5 +18,3 @@ To buy bypass join in discord and open ticket.
 ### 🕒 Last videos
 - [Plug - ShowCase | v3.1](https://www.youtube.com/watch?v=dGmEI2bQM6w)<br/>
 - [COMO DAR BYPASS EM TODOS TELADORES DO FIVEM COM PLUG BYPASS](https://www.youtube.com/watch?v=IxVPvTsH-xE)<br/>
-
-![snake gif](https://github.com/PlugBypass/PlugBypass/blob/output/github-contribution-grid-snake.svg)
