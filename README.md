@@ -1,7 +1,7 @@
 ### 🔌 Welcome to PlugBypass
 
 <a href="[https://github.com/PlugBypass/PlugUpload]">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PlugBypass&repo=PlugUpload" />
 </a>
 
 
