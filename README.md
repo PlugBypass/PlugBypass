@@ -13,7 +13,7 @@
 [![JavaSkript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://discord.gg/fQ9uPFKYrK)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://discord.gg/fQ9uPFKYrK)
 
-To buy bypass join in discordand open ticket.
+To buy bypass join in discord and open ticket.
 
 ### 🕒 Last videos
 - [Plug - ShowCase | v3.1](https://www.youtube.com/watch?v=dGmEI2bQM6w)<br/>
