@@ -3,7 +3,9 @@
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://discord.gg/fQ9uPFKYrK)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC3AF1pNtNQ-u5SAyj2q41cw)
-[![Language](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://discord.gg/fQ9uPFKYrK)
+[![Language](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://discord.gg/fQ9uPFKYrK)
+
+
 [![Language](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://discord.gg/fQ9uPFKYrK)
 
 https://github-readme-stats.vercel.app/api?username={username}&theme=black-blue
